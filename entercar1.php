@@ -1,7 +1,7 @@
 <html>
 
   <head>
-    <title> customer Signup | Patna Car Rental </title>
+    <title> customer Signup | Saroj Car Rental </title>
   </head>
   <?php session_start(); ?>
   <link rel="shortcut icon" type="image/png" href="assets/img/P.png.png">
@@ -23,7 +23,7 @@
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   PATNA CAR RENTAL </a>
+                   Saroj CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -192,7 +192,7 @@ $conn->close();
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2018 Patna Car Rental</h5>
+                    <h5>© 2018 Saroj Car Rental</h5>
                 </div>
             </div>
         </div>

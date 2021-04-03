@@ -29,7 +29,7 @@ if(isset($_SESSION['login_client'])){
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   PATNA CAR RENTAL </a>
+                   Saroj CAR RENTAL </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -112,7 +112,7 @@ if(isset($_SESSION['login_client'])){
     </nav>
         <div class="container">
             <div class="jumbotron">
-                <h1>Welcome to Patna Car Rental </span>
+                <h1>Welcome to Saroj Car Rental </span>
                 </h1>
                 <br>
                 <p>Kindly LOGIN to continue.</p>
@@ -174,7 +174,7 @@ if(isset($_SESSION['login_client'])){
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© 2018 Patna Car Rental</h5>
+                    <h5>© 2018 Saroj Car Rental</h5>
                 </div>
             </div>
         </div>
